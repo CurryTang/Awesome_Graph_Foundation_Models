@@ -22,3 +22,6 @@ Accompanied repositories for our paper [Graph foundation model](https://arxiv.or
 
 
 ## GFM development: Training
+
+
+## Existing GFM papers

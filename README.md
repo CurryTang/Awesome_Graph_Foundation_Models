@@ -11,6 +11,25 @@ Accompanied repositories for our paper [Graph foundation model](https://arxiv.or
 
 ### Gathering more real-world data
 
+We put a collection of large-scale real-world datasets below.
+
+| Name                     	| URL                                                                      	| Description                                                                  	|
+|--------------------------	|--------------------------------------------------------------------------	|------------------------------------------------------------------------------	|
+| TU-Dataset               	| https://chrsmrrs.github.io/datasets/                                     	| A collection of graph-level prediction datasets                              	|
+| NetworkRepository        	| https://networkrepository.com/                                           	| The largest graph datasets, with graphs coming from 30+ different domains    	|
+| Open Graph Benchmark     	| https://ogb.stanford.edu/                                                	| Contains a bunch of large-scale graph datasets                               	|
+| Pyg                      	| https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html 	| Official datasets provided by Pyg, containing popular datasets for benchmark 	|
+| SNAP                     	| https://snap.stanford.edu/data/                                          	| Mainly focus on social network                                               	|
+| Aminer                   	| https://www.aminer.cn/data/                                              	| A collection of academic graphs                                              	|
+| OAG                      	| https://www.aminer.cn/open-academic-graph                                	| A large-scale academic graph                                                 	|
+| MalNet                   	| https://www.mal-net.org/#home                                            	| A large-scale function calling graph for malware detection                   	|
+| ScholKG                  	| https://scholkg.kmi.open.ac.uk/                                          	| A large-scale scholarly knowledge graph                                      	|
+| Graphium                 	| https://github.com/datamol-io/graphium                                   	| A massive dataset for molecular property prediction                          	|
+| Live Graph Lab           	| https://livegraphlab.github.io/                                          	| A large-scale temporal graph for NFT transactions                            	|
+| Temporal Graph Benchmark 	| https://docs.tgb.complexdatalab.com/                                     	| A large-scale benchmark for temporal graph learning                          	|
+| MoleculeNet              	| https://moleculenet.org/                                                 	| A benchmark for molecular machine learning                                   	|
+| Recsys data              	| https://cseweb.ucsd.edu/~jmcauley/datasets.html                          	| A collection of datasets for recommender systems                             	|
+| LINKX                    	| https://github.com/CUAI/Non-Homophily-Large-Scale                        	| A collection of large-scale non-homophilous graphs                           	|
 
 ### Handling feature heterogeneity
 

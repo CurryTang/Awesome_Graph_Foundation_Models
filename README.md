@@ -1,1 +1,1 @@
-# Towards-Graph-Foundation-Models-New-perspective-
+# Towards-Graph-Foundation-Models-New-perspective

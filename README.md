@@ -5,6 +5,16 @@ Accompanied repositories for our paper [Graph foundation model](https://arxiv.or
 
 ## Theoretical backgrounds for GFM development
 
+A curated list of papers grounding the theoretical foundations of GFMs
+
+### General Theory
+
+
+### Node-level tasks (Node classification)
+
+### Link-level tasks (Link prediction)
+
+### Graph-level tasks (Graph classification)
 
 ## GFM development: A data perspective
 
@@ -32,6 +42,7 @@ We put a collection of large-scale real-world datasets below.
 | LINKX                    	| https://github.com/CUAI/Non-Homophily-Large-Scale                        	| A collection of large-scale non-homophilous graphs                           	|
 
 ### Handling feature heterogeneity
+
 
 
 ### Synthetic data generation

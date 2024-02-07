@@ -12,6 +12,9 @@ A curated list of papers grounding the theoretical foundations of GFMs
 
 ### Node-level tasks (Node classification)
 
+* ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)
+ (**NeurIPS '23**) Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All? [[Paper](https://arxiv.org/abs/2306.01323)] 
+
 ### Link-level tasks (Link prediction)
 
 ### Graph-level tasks (Graph classification)

@@ -9,6 +9,7 @@ A curated list of papers grounding the theoretical foundations of GFMs
 
 ### General Theory
 
+**Geometric ML Book** Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges [[Book](https://arxiv.org/abs/2104.13478)]
 
 ### Node-level tasks (Node classification)
 

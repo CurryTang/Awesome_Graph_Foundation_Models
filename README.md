@@ -1,4 +1,5 @@
 # Towards-Graph-Foundation-Models-New-perspective
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
 Accompanied repositories for our paper [Graph foundation model](https://arxiv.org/abs/2402.02216)
 
@@ -60,8 +61,18 @@ We put a collection of large-scale real-world datasets below.
 
 ## GFM development: Backbone models
 
+** A paper list of graph transformers [[Awesome graph transformers](https://github.com/wehos/awesome-graph-transformer)] **
+
+* (**Arxiv '23**) GraphGPT: Graph Learning with Generative Pre-trained Transformers [[Paper](https://arxiv.org/abs/2401.00529)]
+  
 
 ## GFM development: Training
 
+** A paper list of self-supervised learning on graphs [[Awesome graph SSL](https://github.com/ChandlerBang/awesome-self-supervised-gnn)] **
+
 
 ## Existing GFM papers
+* ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)(**ICLR '24**) Towards Foundation Models for Knowledge Graph Reasoning [[Paper](https://arxiv.org/abs/2310.04562)]
+* (**ICLR '24**) One For All: Towards Training One Graph Model For All Classification Tasks [[Paper](https://openreview.net/forum?id=4IT2pgc9v6)]
+* ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)(**NIPS '23**) PRODIGY: Enabling In-context Learning Over Graphs [[Paper](https://arxiv.org/abs/2305.12600)]
+* 

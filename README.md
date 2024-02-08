@@ -11,10 +11,12 @@ A curated list of papers grounding the theoretical foundations of GFMs
 ### General Theory
 
 * **Geometric ML Book** Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges [[Book](https://arxiv.org/abs/2104.13478)]
+* (**ICML '23**) On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology [[Paper](https://arxiv.org/abs/2302.02941)]
 * (**ICLR '22**) Understanding over-squashing and bottlenecks on graphs via curvature [[Paper](Understanding over-squashing and bottlenecks on graphs via curvature)]
 * (**ICLR '21**) HOW NEURAL NETWORKS EXTRAPOLATE: FROM FEEDFORWARD TO GRAPH NEURAL NETWORKS [[Paper](https://arxiv.org/pdf/2009.11848.pdf)]
 * (**ICMLW '20** A Note on Over-Smoothing for Graph Neural Networks [[Paper](https://arxiv.org/abs/2006.13318)]
 * (**ICLR '20**) WHAT CAN NEURAL NETWORKS REASON ABOUT? [[Paper](https://arxiv.org/pdf/1905.13211.pdf)]
+* (**ICLR '20**) The Logical Expressiveness of Graph Neural Networks  [[Paper](https://openreview.net/forum?id=r1lZ7AEKvB)]
 
 ### Node-level tasks (Node classification)
 
@@ -22,6 +24,7 @@ A curated list of papers grounding the theoretical foundations of GFMs
 * ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)
  (**NIPS '23**) Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All? [[Paper](https://arxiv.org/abs/2306.01323)]
 * (**NIPS '23**) When Do Graph Neural Networks Help with Node Classification? Investigating the Impact of Homophily Principle on Node Distinguishability [[Paper](https://arxiv.org/abs/2304.14274)]
+* (**NIPS '23**) Demystifying Oversmoothing in Attention-Based Graph Neural Networks [[Paper](https://arxiv.org/pdf/2305.16102.pdf)]
 * (**NIPS '22**) Revisiting Heterophily For Graph Neural Networks [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/092359ce5cf60a80e882378944bf1be4-Abstract-Conference.html)]
 * (**ICLR '22**) Is Homophily a Necessity for Graph Neural Networks? [[Paper](https://arxiv.org/abs/2106.06134)]
 * (**ICLR '20**) Graph Neural Networks Exponentially Lose Expressive Power for Node Classification [[Paper](https://arxiv.org/pdf/1905.10947)]

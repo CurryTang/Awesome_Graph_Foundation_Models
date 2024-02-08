@@ -61,14 +61,14 @@ We put a collection of large-scale real-world datasets below.
 
 ## GFM development: Backbone models
 
-** A paper list of graph transformers [[Awesome graph transformers](https://github.com/wehos/awesome-graph-transformer)] **
+**A paper list of graph transformers [[Awesome graph transformers](https://github.com/wehos/awesome-graph-transformer)]**
 
 * (**Arxiv '23**) GraphGPT: Graph Learning with Generative Pre-trained Transformers [[Paper](https://arxiv.org/abs/2401.00529)]
   
 
 ## GFM development: Training
 
-** A paper list of self-supervised learning on graphs [[Awesome graph SSL](https://github.com/ChandlerBang/awesome-self-supervised-gnn)] **
+**A paper list of self-supervised learning on graphs [[Awesome graph SSL](https://github.com/ChandlerBang/awesome-self-supervised-gnn)]**
 
 
 ## Existing GFM papers

@@ -16,12 +16,17 @@ A curated list of papers grounding the theoretical foundations of GFMs
 ### Node-level tasks (Node classification)
 
 * ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)
- (**NeurIPS '23**) Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All? [[Paper](https://arxiv.org/abs/2306.01323)] 
+ (**NIPS '23**) Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All? [[Paper](https://arxiv.org/abs/2306.01323)]
+* (**NIPS '23**) When Do Graph Neural Networks Help with Node Classification? Investigating the Impact of Homophily Principle on Node Distinguishability [[Paper](https://arxiv.org/abs/2304.14274)]
+* (**NIPS '22**) Revisiting Heterophily For Graph Neural Networks [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/092359ce5cf60a80e882378944bf1be4-Abstract-Conference.html)]
+* (**ICLR '22**) Is Homophily a Necessity for Graph Neural Networks? [[Paper](https://arxiv.org/abs/2106.06134)]
+* (**Annual Review of Sociology '01**) Birds of a Feather: Homophily in Social Networks [[Paper](https://www.jstor.org/stable/2678628)]
+
 
 ### Link-level tasks (Link prediction)
 
 * ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)(**ICLR '24**) Revisiting link prediction a data perspective [[Paper](https://arxiv.org/abs/2310.00793)]
-* (**NeurIPS '23**) A Theory of Link Prediction via Relational Weisfeiler-Leman on Knowledge Graphs [[Paper](https://arxiv.org/abs/2302.02209)]
+* (**NIPS '23**) A Theory of Link Prediction via Relational Weisfeiler-Leman on Knowledge Graphs [[Paper](https://arxiv.org/abs/2302.02209)]
 * (**ACL '23**) Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion? [[Paper](https://arxiv.org/abs/2205.10652)]
 * 
 

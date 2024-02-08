@@ -9,7 +9,8 @@ A curated list of papers grounding the theoretical foundations of GFMs
 
 ### General Theory
 
-**Geometric ML Book** Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges [[Book](https://arxiv.org/abs/2104.13478)]
+* **Geometric ML Book** Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges [[Book](https://arxiv.org/abs/2104.13478)]
+* (**ICLR '20**) WHAT CAN NEURAL NETWORKS REASON ABOUT? [[Paper](https://arxiv.org/pdf/1905.13211.pdf)]
 
 ### Node-level tasks (Node classification)
 
@@ -17,6 +18,11 @@ A curated list of papers grounding the theoretical foundations of GFMs
  (**NeurIPS '23**) Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All? [[Paper](https://arxiv.org/abs/2306.01323)] 
 
 ### Link-level tasks (Link prediction)
+
+* ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)(**ICLR '24**) Revisiting link prediction a data perspective [[Paper](https://arxiv.org/abs/2310.00793)]
+* (**NeurIPS '23**) A Theory of Link Prediction via Relational Weisfeiler-Leman on Knowledge Graphs [[Paper](https://arxiv.org/abs/2302.02209)]
+* (**ACL '23**) Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion? [[Paper](https://arxiv.org/abs/2205.10652)]
+* 
 
 ### Graph-level tasks (Graph classification)
 
@@ -50,7 +56,7 @@ We put a collection of large-scale real-world datasets below.
 
 
 ### Synthetic data generation
-
+* (**KDD '22**) GraphWorld: Fake Graphs Bring Real Insights for GNNs [[Paper](https://arxiv.org/pdf/2203.00112.pdf)]
 
 ## GFM development: Backbone models
 

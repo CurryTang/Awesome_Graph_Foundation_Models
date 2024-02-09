@@ -14,7 +14,7 @@ A curated list of papers grounding the theoretical foundations of GFMs
 * **Geometric ML Book** Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges [[Book](https://arxiv.org/abs/2104.13478)]
 * (**Arxiv '24**) Future Directions in Foundations of Graph Machine Learning [[Paper](https://arxiv.org/pdf/2402.02287.pdf)]
 * (**ICML '23**) On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology [[Paper](https://arxiv.org/abs/2302.02941)]
-* (**ICLR '22**) Understanding over-squashing and bottlenecks on graphs via curvature [[Paper](Understanding over-squashing and bottlenecks on graphs via curvature)]
+* (**ICLR '22**) Understanding over-squashing and bottlenecks on graphs via curvature [[Paper](https://arxiv.org/abs/2111.14522)]
 * (**ICLR '21**) HOW NEURAL NETWORKS EXTRAPOLATE: FROM FEEDFORWARD TO GRAPH NEURAL NETWORKS [[Paper](https://arxiv.org/pdf/2009.11848.pdf)]
 * (**ICMLW '20**) A Note on Over-Smoothing for Graph Neural Networks [[Paper](https://arxiv.org/abs/2006.13318)]
 * (**ICLR '20**) WHAT CAN NEURAL NETWORKS REASON ABOUT? [[Paper](https://arxiv.org/pdf/1905.13211.pdf)]

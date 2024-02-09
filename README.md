@@ -62,6 +62,12 @@ A curated list of papers grounding the theoretical foundations of GFMs
 
 ### Transferring across tasks (practical techniques)
 
+* (**Arxiv '23**) Graph Prompt Learning: A Comprehensive Survey and Beyond [[Paper](https://arxiv.org/abs/2311.16534)]
+* (**NIPS '23**) Universal Prompt Tuning for Graph Neural Networks [[Paper](https://arxiv.org/abs/2209.15240)]
+* (**KDD '23**) All in One: Multi-Task Prompting for Graph Neural Networks [[Paper](https://arxiv.org/abs/2307.01504)]
+* (**WWW '23**) GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583386)]
+* (**KDD '22**) GPPT: Graph Pre-training and Prompt Tuning to Generalize Graph Neural Networks [[Paper](https://dl.acm.org/doi/10.1145/3534678.3539249)]
+
 
 
 ## GFM development: A data perspective

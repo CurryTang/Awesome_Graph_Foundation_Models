@@ -60,7 +60,7 @@ A curated list of papers grounding the theoretical foundations of GFMs
 
 * (**ICLR '24**) On the Stability of Expressive Positional Encodings for Graph Neural Networks [[Paper](https://openreview.net/forum?id=xAqcJ9XoTf)]
 * (**ICLR '24**) Beyond weisfeiler-lehman: A quantitative framework for gnn expressiveness [[Paper](https://arxiv.org/abs/2401.08514)]
-* (**NIPS '23**) Fine-grained Expressivity of Graph Neural Networks [[Paper](https://arxiv.org/pdf/2306.03698.pdf
+* (**NIPS '23**) Fine-grained Expressivity of Graph Neural Networks [[Paper](https://arxiv.org/pdf/2306.03698.pdf)]
 * (**JMLR '23**) Weisfeiler and Leman go Machine Learning: The Story so far [[Paper](https://jmlr.org/papers/v24/22-0240.html)]
 * (**ICML '23**) WL meet VC [[Paper](https://arxiv.org/abs/2301.11039)]
 * (**ICLR '23**) Sign and Basis Invariant Networks for Spectral Graph Representation Learning [[Paper](https://openreview.net/forum?id=Q-UHqMorzil)]

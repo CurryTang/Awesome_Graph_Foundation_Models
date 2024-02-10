@@ -154,6 +154,8 @@ We put a collection of large-scale real-world datasets below.
 
 * (**Arxiv '23**) GraphGPT: Graph Learning with Generative Pre-trained Transformers [[Paper](https://arxiv.org/abs/2401.00529)]
 * (**NIPS '23**) PRODIGY: Enabling In-context Learning Over Graphs [[Paper](https://arxiv.org/abs/2305.12600)]
+* (**NIPS '23**) Rethinking Tokenizer and Decoder in Masked Graph Modeling for Molecules [[Paper](https://arxiv.org/abs/2310.14753)]
+* (**ICLR '23**) Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules [[Paper](https://openreview.net/forum?id=jevY-DtiZTR)]
 
 
 ## Existing GFM papers

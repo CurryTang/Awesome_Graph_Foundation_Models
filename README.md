@@ -39,7 +39,20 @@ A curated list of papers grounding the theoretical foundations of GFMs
 
 * ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)(**ICLR '24**) Revisiting link prediction a data perspective [[Paper](https://arxiv.org/abs/2310.00793)]
 * (**NIPS '23**) A Theory of Link Prediction via Relational Weisfeiler-Leman on Knowledge Graphs [[Paper](https://arxiv.org/abs/2302.02209)]
-* (**ACL '23**) Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion? [[Paper](https://arxiv.org/abs/2205.10652)] 
+* (**NIPSW '23**) A Multi-Task Perspective for Link Prediction with New Relation Types and Nodes [[Paper](https://openreview.net/forum?id=KIISfvU806)]
+* (**NIPSW '23**) Double Equivariance for Inductive Link Prediction for Both New Nodes and New Relation Types [[Paper](https://arxiv.org/pdf/2302.01313.pdf)]
+* (**ACL '23**) Are Message Passing Neural Networks Really Helpful for Knowledge Graph Completion? [[Paper](https://arxiv.org/abs/2205.10652)]
+* (**TMLR '23**) You Only Transfer What You Share: Intersection-Induced Graph Transfer Learning for Link Prediction [[Paper](https://arxiv.org/pdf/2302.14189.pdf)]
+* (**ICLR '22**) Equivariant and Stable Positional Encoding for More Powerful Graph Neural Networks [[Paper](https://arxiv.org/abs/2203.00199)]
+* (**NIPS '21**) Labeling Trick: A Theory of Using Graph Neural Networks for Multi-Node Representation Learning [[Paper](https://arxiv.org/abs/2010.16103)]
+* (**ICLR '20**) On the Equivalence between Positional Node Embeddings and Structural Graph Representations [[Paper](https://arxiv.org/pdf/1910.00452.pdf)]
+* (**Scientific Reports '19**) Structural transition in social networks: The role of homophily [[Paper](https://www.nature.com/articles/s41598-019-40990-z)]
+* (**ICML '19**) Position-aware Graph Neural Networks [[Paper](http://proceedings.mlr.press/v97/you19b.html)]
+* (**NIPS '18**) Link Prediction Based on Graph Neural Networks [[Paper](https://arxiv.org/abs/1802.09691)]
+* (**TKDE '15**) Triadic closure pattern analysis and prediction in social networks [[Paper](https://ieeexplore.ieee.org/abstract/document/7152900)]
+* (**KDD '02**) SimRank: A Measure of Structural-Context Similarity [[Paper](http://www.cse.cuhk.edu.hk/~cslui/CMSC5734/simrank.pdf)]
+* (**Social Networks '03**) Friends and neighbors on the Web [[Paper](https://www.sciencedirect.com/science/article/pii/S0378873303000091)]
+* (**Psychometrika '53**) A new status index derived from sociometric analysis [[Paper](https://link.springer.com/article/10.1007/BF02289026)]
 
 
 

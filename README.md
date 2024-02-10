@@ -108,23 +108,52 @@ We put a collection of large-scale real-world datasets below.
 | Recsys data              	| https://cseweb.ucsd.edu/~jmcauley/datasets.html                          	| A collection of datasets for recommender systems                             	|
 | LINKX                    	| https://github.com/CUAI/Non-Homophily-Large-Scale                        	| A collection of large-scale non-homophilous graphs                           	|
 
+### Scaling Law
+
+* (**Arxiv '24**) Neural Scaling Laws on Graphs [[Paper](https://arxiv.org/abs/2402.02054)]
+* (**NIPS '23**) Uncovering neural scaling laws in molecular representation learning [[Paper](https://openreview.net/forum?id=Ys8RmfF9w1)]
+* (**NMI '23**) Neural scaling of deep chemical models [[Paper](https://www.nature.com/articles/s42256-023-00740-3)]
+
+
+
 ### Handling feature heterogeneity
 
+* (**ICLR '24**) One For All: Towards Training One Graph Model For All Classification Tasks [[Paper](https://openreview.net/forum?id=4IT2pgc9v6)]
+* (**Arxiv '23**) GraphText: Graph Reasoning in Text Space [[Paper](https://arxiv.org/abs/2310.01089)]
+* (**ICML '23**) GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets [[Paper](https://arxiv.org/abs/2306.03447)]
+* (**CVPR '23**) Deep graph reprogramming [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jing_Deep_Graph_Reprogramming_CVPR_2023_paper.pdf)]
+* (**ICLR '23**) Confidence-Based Feature Imputation for Graphs with Partially Known Features [[Paper](https://openreview.net/forum?id=YPKBIILy-Kt)]
+* (**Future Generation Computer Systems '21**) Graph convolutional networks for graphs containing missing features [[Paper](https://arxiv.org/abs/2007.04583)]
 
 
 ### Synthetic data generation
+
+* (**NIPS '23**) Data-Centric Learning from Unlabeled Graphs with Diffusion Model [[Paper](https://arxiv.org/abs/2303.10108)]
+* (**ICLR '23**) Digress: Discrete denoising diffusion for graph generation [[Paper](https://openreview.net/forum?id=UaAD-Nu86WX)]
+* (**ICML '22**) Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations [[Paper](https://arxiv.org/abs/2202.02514)]
 * (**KDD '22**) GraphWorld: Fake Graphs Bring Real Insights for GNNs [[Paper](https://arxiv.org/pdf/2203.00112.pdf)]
+* (**ICML '21**) Graphdf: A discrete flow model for molecular graph generation [[Paper](https://arxiv.org/abs/2102.01189)]
+* (**ICML '20**) Hierarchical Generation of Molecular Graphs using Structural Motifs [[Paper](https://arxiv.org/abs/2002.03230)]
+* (**JMLR '10**) Kronecker Graphs: An Approach to Modeling Networks [[Paper](https://cs.stanford.edu/people/jure/pubs/kronecker-jmlr10.pdf)]
+* (**NIPS '08**) Mixed membership stochastic blockmodels [[Paper](https://jmlr.csail.mit.edu/papers/volume9/airoldi08a/airoldi08a.pdf)]
+* (**Social Networks '07**) An introduction to exponential random graph (p*) models for social networks [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0378873306000372)]
+* (**Reviews of modern physics '02**) Statistical mechanics of complex networks [[Paper](https://link.aps.org/doi/10.1103/RevModPhys.74.47)]
 
 ## GFM development: Backbone models
 
 **A paper list of graph transformers [[Awesome graph transformers](https://github.com/wehos/awesome-graph-transformer)]**
 
+* (**TMLR '23**) Graph Neural Networks Designed for Different Graph Types: A Survey [[Paper](https://openreview.net/forum?id=h4BYtZ79uy)]
 * (**Arxiv '23**) GraphGPT: Graph Learning with Generative Pre-trained Transformers [[Paper](https://arxiv.org/abs/2401.00529)]
-  
+* (**Arxiv '23**) Attending to Graph Transformers [[Paper](https://arxiv.org/abs/2302.04181)]
+* (**Arxiv '22**) GPS++: An Optimised Hybrid MPNN/Transformer for Molecular Property Prediction [[Paper](https://arxiv.org/abs/2212.02229)]
 
 ## GFM development: Training
 
 **A paper list of self-supervised learning on graphs [[Awesome graph SSL](https://github.com/ChandlerBang/awesome-self-supervised-gnn)]**
+
+* (**Arxiv '23**) GraphGPT: Graph Learning with Generative Pre-trained Transformers [[Paper](https://arxiv.org/abs/2401.00529)]
+* (**NIPS '23**) PRODIGY: Enabling In-context Learning Over Graphs [[Paper](https://arxiv.org/abs/2305.12600)]
 
 
 ## Existing GFM papers

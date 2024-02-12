@@ -23,8 +23,7 @@ A curated list of papers grounding the theoretical foundations of GFMs
 ### Node-level tasks (Node classification)
 
 * (**Arxiv '24**) Understanding Heterophily for Graph Neural Networks [[Paper](https://arxiv.org/abs/2401.09125)]
-* ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)
- (**NIPS '23**) Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All? [[Paper](https://arxiv.org/abs/2306.01323)]
+* (**NIPS '23**) Demystifying Structural Disparity in Graph Neural Networks: Can One Size Fit All? [[Paper](https://arxiv.org/abs/2306.01323)]
 * (**NIPS '23**) When Do Graph Neural Networks Help with Node Classification? Investigating the Impact of Homophily Principle on Node Distinguishability [[Paper](https://arxiv.org/abs/2304.14274)]
 * (**NIPS '23**) Demystifying Oversmoothing in Attention-Based Graph Neural Networks [[Paper](https://arxiv.org/pdf/2305.16102.pdf)]
 * (**ICLR '23**) Graph domain adaptation via theory-grounded spectral regularization [[Paper](https://openreview.net/forum?id=OysfLgrk8mk)]

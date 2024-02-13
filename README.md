@@ -1,7 +1,7 @@
 # Towards-Graph-Foundation-Models-New-perspective
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
-Accompanied repositories for our paper [Graph foundation model](https://arxiv.org/abs/2402.02216)
+Accompanied repositories for our paper [Graph foundation models](https://arxiv.org/abs/2402.02216)
 
 
 ## Theoretical backgrounds for GFM development

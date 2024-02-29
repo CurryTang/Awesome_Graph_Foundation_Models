@@ -107,6 +107,7 @@ We put a collection of large-scale real-world datasets below.
 | MoleculeNet              	| https://moleculenet.org/                                                 	| A benchmark for molecular machine learning                                   	|
 | Recsys data              	| https://cseweb.ucsd.edu/~jmcauley/datasets.html                          	| A collection of datasets for recommender systems                             	|
 | LINKX                    	| https://github.com/CUAI/Non-Homophily-Large-Scale                        	| A collection of large-scale non-homophilous graphs                           	|
+| GADBench                  | https://github.com/squareRoot3/GADBench                                   | A collection of datasets for graph-based anomaly detection                    |
 
 ### Scaling Law
 

@@ -128,6 +128,7 @@ We put a collection of large-scale real-world datasets below.
 
 ### Synthetic data generation
 
+* (**Arxiv '24**) Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models [[Paper](https://arxiv.org/pdf/2406.01899)]
 * (**NIPS '23**) Data-Centric Learning from Unlabeled Graphs with Diffusion Model [[Paper](https://arxiv.org/abs/2303.10108)]
 * (**ICLR '23**) Digress: Discrete denoising diffusion for graph generation [[Paper](https://openreview.net/forum?id=UaAD-Nu86WX)]
 * (**ICML '22**) Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations [[Paper](https://arxiv.org/abs/2202.02514)]

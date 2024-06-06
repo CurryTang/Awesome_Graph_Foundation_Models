@@ -159,6 +159,7 @@ We put a collection of large-scale real-world datasets below.
 
 
 ## Existing GFM papers
+* (**Arxiv '24**) GraphAny: A Foundation Model for Node Classification on Any Graph [[Paper](https://arxiv.org/pdf/2405.20445)]
 * (**Arxiv '24**) A foundation model for atomistic materials chemistry [[Paper](https://arxiv.org/abs/2401.00096)]
 * ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)(**ICLR '24**) Towards Foundation Models for Knowledge Graph Reasoning [[Paper](https://arxiv.org/abs/2310.04562)]
 * (**ICLR '24**) One For All: Towards Training One Graph Model For All Classification Tasks [[Paper](https://openreview.net/forum?id=4IT2pgc9v6)]

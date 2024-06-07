@@ -142,13 +142,18 @@ We put a collection of large-scale real-world datasets below.
 
 ## GFM development: Backbone models
 
-**A paper list of graph transformers [[Awesome graph transformers](https://github.com/wehos/awesome-graph-transformer)]**
+### Message-passing NN & Graph transformers
 
-* (**ICML '24**) LLaGA: Large Language and Graph Assistant [[Paper](https://arxiv.org/pdf/2402.08170)]
+**A paper list of graph transformers [[Awesome graph transformers](https://github.com/wehos/awesome-graph-transformer)]**
 * (**TMLR '23**) Graph Neural Networks Designed for Different Graph Types: A Survey [[Paper](https://openreview.net/forum?id=h4BYtZ79uy)]
 * (**Arxiv '23**) GraphGPT: Graph Learning with Generative Pre-trained Transformers [[Paper](https://arxiv.org/abs/2401.00529)]
 * (**Arxiv '23**) Attending to Graph Transformers [[Paper](https://arxiv.org/abs/2302.04181)]
 * (**Arxiv '22**) GPS++: An Optimised Hybrid MPNN/Transformer for Molecular Property Prediction [[Paper](https://arxiv.org/abs/2212.02229)]
+
+### LLM for Graph 
+
+* (**ICML '24**) LLaGA: Large Language and Graph Assistant [[Paper](https://arxiv.org/pdf/2402.08170)]
+
 
 ## GFM development: Training
 

@@ -144,6 +144,7 @@ We put a collection of large-scale real-world datasets below.
 
 **A paper list of graph transformers [[Awesome graph transformers](https://github.com/wehos/awesome-graph-transformer)]**
 
+* (**ICML '24**) LLaGA: Large Language and Graph Assistant [[Paper](https://arxiv.org/pdf/2402.08170)]
 * (**TMLR '23**) Graph Neural Networks Designed for Different Graph Types: A Survey [[Paper](https://openreview.net/forum?id=h4BYtZ79uy)]
 * (**Arxiv '23**) GraphGPT: Graph Learning with Generative Pre-trained Transformers [[Paper](https://arxiv.org/abs/2401.00529)]
 * (**Arxiv '23**) Attending to Graph Transformers [[Paper](https://arxiv.org/abs/2302.04181)]

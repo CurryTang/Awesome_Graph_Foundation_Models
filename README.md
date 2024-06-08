@@ -1,7 +1,7 @@
 # Towards-Graph-Foundation-Models-New-perspective
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
 
-Accompanied repositories for our paper [Graph foundation models](https://arxiv.org/abs/2402.02216)
+Accompanied repositories for our **ICML 2024 spotlight** paper [Graph foundation models](https://arxiv.org/abs/2402.02216)
 
 
 ## Theoretical backgrounds for GFM development
@@ -172,6 +172,7 @@ We put a collection of large-scale real-world datasets below.
 * (**Arxiv '24**) GraphAny: A Foundation Model for Node Classification on Any Graph [[Paper](https://arxiv.org/pdf/2405.20445)]
 * (**Arxiv '24**) A foundation model for atomistic materials chemistry [[Paper](https://arxiv.org/abs/2401.00096)]
 * ![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369)(**ICLR '24**) Towards Foundation Models for Knowledge Graph Reasoning [[Paper](https://arxiv.org/abs/2310.04562)]
+* (**ICML '24**) Zero-shot Logical Query Reasoning on any Knowledge Graph [[Paper](https://arxiv.org/pdf/2404.07198)]
 * (**ICLR '24**) One For All: Towards Training One Graph Model For All Classification Tasks [[Paper](https://openreview.net/forum?id=4IT2pgc9v6)]
 * (**ICLR '24**) From Molecules to Materials: Pre-training Large Generalizable Models for Atomic Property Prediction [[Paper](https://arxiv.org/abs/2310.16802)]
 * (**Arxiv '23**) DPA-2: Towards a universal large atomic model for molecular and material simulation [[Paper](https://arxiv.org/abs/2312.15492)]

@@ -153,8 +153,11 @@ We put a collection of large-scale real-world datasets below.
 
 ### LLM for Graph 
 
+* (**Arxiv '24**) G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [[Paper](https://arxiv.org/pdf/2402.07630)]
+* (**Arxiv '24**) Let Your Graph Do the Talking: Encoding Structured Data for LLMs [[Paper](https://arxiv.org/pdf/2402.05862)]
 * (**Arxiv '24**) InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment [[Paper](https://arxiv.org/pdf/2402.08785)]
 * (**ICML '24**) LLaGA: Large Language and Graph Assistant [[Paper](https://arxiv.org/pdf/2402.08170)]
+* (**ICLR '24**) Talk like a Graph: Encoding Graphs for Large Language Models [[Paper](https://arxiv.org/abs/2310.04560)]
 * (**WWW '24**) GraphGPT: Graph Instruction Tuning for Large Language Models [[Paper](https://arxiv.org/pdf/2310.13023)]
 
 

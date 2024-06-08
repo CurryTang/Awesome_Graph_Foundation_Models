@@ -12,6 +12,7 @@ A curated list of papers grounding the theoretical foundations of GFMs
 
 
 * **Geometric ML Book** Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges [[Book](https://arxiv.org/abs/2104.13478)]
+* (**Arxiv '24**) Understanding Transformer Reasoning Capabilities via Graph Algorithms [[Paper](https://arxiv.org/pdf/2405.18512)]
 * (**Arxiv '24**) Future Directions in Foundations of Graph Machine Learning [[Paper](https://arxiv.org/pdf/2402.02287.pdf)]
 * (**ICML '23**) On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology [[Paper](https://arxiv.org/abs/2302.02941)]
 * (**ICLR '22**) Understanding over-squashing and bottlenecks on graphs via curvature [[Paper](https://arxiv.org/abs/2111.14522)]
@@ -152,7 +153,9 @@ We put a collection of large-scale real-world datasets below.
 
 ### LLM for Graph 
 
+* (**Arxiv '24**) InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment [[Paper](https://arxiv.org/pdf/2402.08785)]
 * (**ICML '24**) LLaGA: Large Language and Graph Assistant [[Paper](https://arxiv.org/pdf/2402.08170)]
+* (**WWW '24**) GraphGPT: Graph Instruction Tuning for Large Language Models [[Paper](https://arxiv.org/pdf/2310.13023)]
 
 
 ## GFM development: Training

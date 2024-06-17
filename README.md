@@ -68,7 +68,6 @@ We put a collection of large-scale real-world datasets below.
 | Recsys data              	| https://cseweb.ucsd.edu/~jmcauley/datasets.html                          	| A collection of datasets for recommender systems                             	|
 | LINKX                    	| https://github.com/CUAI/Non-Homophily-Large-Scale                        	| A collection of large-scale non-homophilous graphs                           	|
 | GADBench                  | https://github.com/squareRoot3/GADBench                                   | A collection of datasets for graph-based anomaly detection                    |
-| Link Prediction datasets                  | https://drive.google.com/drive/folders/1LoQu68h1V9Mifu3kvmTlTq98Roh_o32D                                   | A collection of datasets for Link Prediction               |
 | Text-attributed datasets                  | https://github.com/CurryTang/TSGFM                                   | A collection of text-attributed graph datasets            |
 
 

@@ -158,6 +158,8 @@ A curated list of papers grounding the theoretical foundations of GFMs
 
 ### Handling feature heterogeneity
 
+* (**Arxiv '24**) GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment [[Paper](https://arxiv.org/pdf/2406.02953)]
+* (**Arxiv '24**) Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights [[Paper](https://arxiv.org/html/2406.10727v1)]
 * (**ICLR '24**) One For All: Towards Training One Graph Model For All Classification Tasks [[Paper](https://openreview.net/forum?id=4IT2pgc9v6)]
 * (**Arxiv '23**) GraphText: Graph Reasoning in Text Space [[Paper](https://arxiv.org/abs/2310.01089)]
 * (**ICML '23**) GRAFENNE: Learning on Graphs with Heterogeneous and Dynamic Feature Sets [[Paper](https://arxiv.org/abs/2306.03447)]

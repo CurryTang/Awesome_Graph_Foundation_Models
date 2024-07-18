@@ -25,6 +25,7 @@ Accompanied repositories for our **ICML 2024 spotlight** paper [Position:Graph F
 * (**Arxiv '24**)[**Knowledge Graph Reasoning**] Zero-shot Logical Query Reasoning on any Knowledge Graph [[Paper](https://arxiv.org/pdf/2404.07198)]
 * (**ICLR '24**)[**Knowledge Graph Reasoning**] Towards Foundation Models for Knowledge Graph Reasoning [[Paper](https://arxiv.org/abs/2310.04562)]
 * (**Arxiv '24**)[**Graph Reasoning**] Let Your Graph Do the Talking: Encoding Structured Data for LLMs [[Paper](https://arxiv.org/pdf/2402.05862)]
+* (**Arxiv '24**)[**Node Classification**] GraphFM: A Scalable Framework for Multi-Graph Pretraining [[Paper](https://arxiv.org/abs/2407.11907)]
 * (**Arxiv '24**)[**Node Classification**] GraphAny: A Foundation Model for Node Classification on Any Graph [[Paper](https://arxiv.org/pdf/2405.20445)]
 * (**Arxiv '23**)[**Node Classification**] GraphText: Graph Reasoning in Text Space [[Paper](https://arxiv.org/abs/2310.01089)]
 * (**LoG '22**) [**Algorithm Reasoning**]A Generalist Neural Algorithmic Learner [[Paper](https://proceedings.mlr.press/v198/ibarz22a/ibarz22a.pdf)]
@@ -69,6 +70,8 @@ We put a collection of large-scale real-world datasets below.
 | LINKX                    	| https://github.com/CUAI/Non-Homophily-Large-Scale                        	| A collection of large-scale non-homophilous graphs                           	|
 | GADBench                  | https://github.com/squareRoot3/GADBench                                   | A collection of datasets for graph-based anomaly detection                    |
 | Text-attributed datasets                  | https://github.com/CurryTang/TSGFM                                   | A collection of text-attributed graph datasets            |
+| TAGLAS                    | https://arxiv.org/abs/2406.14683                                          | A collection of text-attributed graph datasets                     |
+
 
 
 
@@ -158,6 +161,7 @@ A curated list of papers grounding the theoretical foundations of GFMs
 
 ### Handling feature heterogeneity
 
+* (**ICMLW '24**) Zero-Shot Generalization of GNNs over Distinct Attribute Domains [[Paper](https://openreview.net/forum?id=W4Q4SwCjgY)]
 * (**Arxiv '24**) GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment [[Paper](https://arxiv.org/pdf/2406.02953)]
 * (**Arxiv '24**) Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights [[Paper](https://arxiv.org/html/2406.10727v1)]
 * (**ICLR '24**) One For All: Towards Training One Graph Model For All Classification Tasks [[Paper](https://openreview.net/forum?id=4IT2pgc9v6)]
@@ -195,6 +199,7 @@ A curated list of papers grounding the theoretical foundations of GFMs
 
 ### LLM for Graph 
 
+* (**Arxiv '24**) STARK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases [[Paper](https://arxiv.org/abs/2404.13207)]
 * (**Arxiv '24**) G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [[Paper](https://arxiv.org/pdf/2402.07630)]
 * (**Arxiv '24**) Let Your Graph Do the Talking: Encoding Structured Data for LLMs [[Paper](https://arxiv.org/pdf/2402.05862)]
 * (**Arxiv '24**) InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment [[Paper](https://arxiv.org/pdf/2402.08785)]

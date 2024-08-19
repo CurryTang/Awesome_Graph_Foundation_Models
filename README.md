@@ -42,6 +42,7 @@ Accompanied repositories for our **ICML 2024 spotlight** paper [Position:Graph F
 
 ### Scaling Law
 
+* (**Arxiv '24**) Towards Neural Scaling Laws for Foundation Models on Temporal Graphs [[Paper](https://arxiv.org/pdf/2406.10426)]
 * (**Arxiv '24**) Neural Scaling Laws on Graphs [[Paper](https://arxiv.org/abs/2402.02054)]
 * (**NIPS '23**) Uncovering neural scaling laws in molecular representation learning [[Paper](https://openreview.net/forum?id=Ys8RmfF9w1)]
 * (**NMI '23**) Neural scaling of deep chemical models [[Paper](https://www.nature.com/articles/s42256-023-00740-3)]

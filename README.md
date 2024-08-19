@@ -199,6 +199,7 @@ A curated list of papers grounding the theoretical foundations of GFMs
 
 ### LLM for Graph 
 
+* (**Arxiv' 24**) Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks? [[Paper](https://arxiv.org/pdf/2408.08685)]
 * (**Arxiv '24**) STARK: Benchmarking LLM Retrieval on Textual and Relational Knowledge Bases [[Paper](https://arxiv.org/abs/2404.13207)]
 * (**Arxiv '24**) G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering [[Paper](https://arxiv.org/pdf/2402.07630)]
 * (**Arxiv '24**) Let Your Graph Do the Talking: Encoding Structured Data for LLMs [[Paper](https://arxiv.org/pdf/2402.05862)]

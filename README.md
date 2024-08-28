@@ -17,6 +17,7 @@ Accompanied repositories for our **ICML 2024 spotlight** paper [Position:Graph F
 * (**ICLR '23**)[**Molecule**]Mole-BERT: Rethinking Pre-training Graph Neural Networks for Molecules [[Paper](https://openreview.net/forum?id=jevY-DtiZTR)]
 * (**Arxiv '24**)[**Molecule**]On the Scalability of GNNs for Molecular Graphs [[Paper](https://arxiv.org/pdf/2404.11568v3)]
 * (**Arxiv '24**)[**Molecule**]MiniMol: A Parameter-Efficient Foundation Model for Molecular Learning [[Paper](https://arxiv.org/pdf/2404.14986)]
+* (**ICML '24**)[**Molecule**] A Graph is Worth K Words: Euclideanizing Graph using Pure Transformer [[Paper](https://arxiv.org/abs/2402.02464)]
 
 
 

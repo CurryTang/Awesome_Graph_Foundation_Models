@@ -35,6 +35,7 @@ Accompanied repositories for our **ICML 2024 spotlight** paper [Position:Graph F
 
 ### Primitive GFMs
 
+* (**Arxiv '24**) GOFA: A Generative One-For-All Model for Joint Graph Language Modeling [[Paper](https://arxiv.org/pdf/2407.09709)]
 * (**Arxiv '24**) Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models [[Paper](https://arxiv.org/pdf/2406.01899)]
 * (**ICLR '24**) One For All: Towards Training One Graph Model For All Classification Tasks [[Paper](https://openreview.net/forum?id=4IT2pgc9v6)]
 * (**NeurIPS '23**) PRODIGY: Enabling In-context Learning Over Graphs [[Paper](https://arxiv.org/abs/2305.12600)]
